@@ -1,20 +1,19 @@
 # Redis Chat Application
 
-Demo:
-https://fast-chat-lake.vercel.app/
+Demo: https://fast-chat-lake.vercel.app/
 
-A real-time chat application built with Next.js 14, Redis, Pusher, and Cloudinary. Features include real-time messaging, image sharing, and user authentication via Kinde.
+This is a modern real-time chat application that enables users to communicate instantly with each other through text messages and images. Built with Next.js 14 and powered by Redis for data persistence, the application leverages Pusher to deliver messages in real-time without the need for page refreshes. Users can authenticate securely using Kinde Auth, upload and share images through Cloudinary, and customize their experience with dark or light themes. The application includes helpful features like typing indicators, message sounds, emoji reactions, and a comprehensive emoji picker to make conversations more expressive.
 
 ## Features
 
-- 🔐 Authentication with Kinde
-- 💬 Real-time messaging using Pusher
-- 📸 Image upload and sharing via Cloudinary
-- 📊 Message persistence with Redis
-- 🎨 Dark/Light mode support
-- 🔊 Sound effects for messages and typing
-- 😊 Emoji picker integration
-- 👍 Quick reactions
+- Authentication with Kinde
+- Real-time messaging using Pusher
+- Image upload and sharing via Cloudinary
+- Message persistence with Redis
+- Dark and light mode support
+- Sound effects for messages and typing
+- Emoji picker integration
+- Quick reactions
 
 ## Tech Stack
 
